@@ -1,3 +1,4 @@
+
 # Numerous always-ignore extensions
 *.diff
 *.err
@@ -27,4 +28,18 @@ tmp/
 
 public/
 node_modules
-public
+
+lib-cov
+*.seed
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+
+pids
+logs
+results
+
+npm-debug.log
