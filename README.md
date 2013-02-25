@@ -14,4 +14,4 @@ then visit `localhost:3333`
 
 To deploy this project to heroku. First setup heroku on your local machine. See more info on the [official site](https://devcenter.heroku.com/articles/nodejs).
 
-Once heroku is setup, create the app on heroku 'heroku create {name of the app}' and push the project up to heroku by 'git push origin master'.
+Once heroku is setup, create the app on heroku `heroku create 'your app name'` and push the project up to heroku by `git push origin master`.
